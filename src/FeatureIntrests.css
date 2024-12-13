@@ -1,0 +1,47 @@
+.feature-intrests {
+  background-color: #f9f9f9; 
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 20px 0px;
+  text-align: center; 
+  max-width: 700px;
+  margin: 10px auto;
+
+}
+ul {
+  
+  background-color: rgb(60, 191, 198);
+}
+
+.section-title {
+  font-size: 2rem; 
+  color: #333; 
+  margin-bottom: 10px; 
+}
+
+.highlighted-text {
+  font-size: 1.1rem; 
+  color: #555; 
+  margin-bottom: 20px; 
+}
+
+.highlighted-items {
+  list-style-type: none; 
+  padding: 0; 
+}
+
+.highlighted-items li {
+ 
+  background-color: #1c336d; 
+  color: white; 
+  padding: 10px 15px; 
+  border-radius: 5px; 
+  margin: 10px 0; 
+ transition: transform 0.2s; 
+}
+ 
+.highlighted-items li:hover {
+  transform: scale(1.05); 
+  cursor: pointer;
+}
