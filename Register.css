@@ -1,0 +1,47 @@
+
+.container {
+    margin-top: 5rem; 
+}
+h2 {
+    color: #266d39; 
+}
+.border {
+    border: 1px solid #11365c;
+    border-radius: 10px;
+    background-color: rgb(80, 160, 176);
+}
+input {
+    border-radius: 0.5rem;  
+}
+
+.btn-primary {
+    background-color: #0e4177; 
+    border: none; 
+}
+
+.btn-primary:hover {
+    background-color: #733d71; 
+}
+
+.text-danger {
+    font-size: 1rem; 
+}
+
+.text-success {
+    font-size: 1.25rem; 
+    color:#0a3f18
+}
+a{
+    color:#b5470d;
+}
+label{
+    color:rgb(14, 56, 42);
+}
+.form-control{
+    color:black;
+}
+ul{
+    background-color: rgb(88, 160, 92);
+}
+
+
